@@ -33,27 +33,27 @@
     "food": [
       {
         "name": "Ração Golden",
-        "price": 24,
+        "price": 199,
         "categorie": 1,
         "image": "https://amoraospets.com/wp-content/uploads/2020/02/pacote-racao-golden-mega.png"
       },
       {
-        "name": "Chicken Picatta",
-        "price": 20,
+        "name": "Kit Ração",
+        "price": 250,
         "categorie": 1,
-        "image": "http://tutofox.com/foodapp//food/american/chicken-piccata.png"
+        "image": "https://www.petz.com.br/cachorro/racas/akita-inu/img/racao-para-cachorros-akita-inu.webp"
       },
       {
-        "name": "Chicken Romesco",
+        "name": "Biscoito Canino",
         "price": 21,
         "categorie": 1,
-        "image": "http://tutofox.com/foodapp//food/american/chicken-romesco.png"
+        "image": "https://images.tcdn.com.br/img/img_prod/588693/biscoito_golden_cookie_para_caes_filhotes_319_1_20171016225651.png"
       },
       {
-        "name": "Chicken Grill",
+        "name": "Brinquedo para Dog",
         "price": 22,
         "categorie": 1,
-        "image": "http://tutofox.com/foodapp//food/american/chicken-grill.png"
+        "image": "https://images.tcdn.com.br/img/img_prod/747935/cachorro_de_brinquedo_que_anda_e_late_interativa_playfull_pets_passeio_divertido_2749_1_20200515180426.jpg"
       },
       {
         "name": "Salmon Grill",
