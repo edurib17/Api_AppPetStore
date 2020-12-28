@@ -26,7 +26,7 @@
       {
         "id": 4,
         "name": "Drink",
-        "color": "#white",
+        "color": "purple",
         "image": "http://tutofox.com/foodapp//categories/drink.png"
       }
     ],
