@@ -15,19 +15,19 @@
         "id": 2,
         "name": "Gato",
         "color": "#9fd236",
-        "image": "https://cdn.pixabay.com/photo/2016/03/23/04/57/cat-1274094_1280.png"
+        "image": "https://imagensemoldes.com.br/wp-content/uploads/2020/05/Gato-PNG-1200x1346.png"
       },
       {
         "id": 3,
-        "name": "Pizza",
+        "name": "Pássaros",
         "color": "orange",
-        "image": "http://tutofox.com/foodapp//categories/pizza.png"
+        "image": "https://2.bp.blogspot.com/-J3XoxlK31mI/UYKx4SMhOrI/AAAAAAAAB2A/2DJ1OdD_y40/s1600/001-20080224-175138.png"
       },
       {
         "id": 4,
-        "name": "Drink",
-        "color": "purple",
-        "image": "http://tutofox.com/foodapp//categories/drink.png"
+        "name": "Outros Pets",
+        "color": "pink",
+        "image": "https://3.bp.blogspot.com/-qJuFZVXdYUw/WOQcaVgJPrI/AAAAAAADx4A/cARKz-QL0TEc-CKpeOe6LuEBHNDFcCYygCLcB/s1600/Coelho_png_MSGT_10.png"
       }
     ],
     "food": [
