@@ -13,9 +13,9 @@
       },
       {
         "id": 2,
-        "name": "Burger",
+        "name": "Gato",
         "color": "#9fd236",
-        "image": "http://tutofox.com/foodapp//categories/burger.png"
+        "image": "https://cdn.pixabay.com/photo/2016/03/23/04/57/cat-1274094_1280.png"
       },
       {
         "id": 3,
