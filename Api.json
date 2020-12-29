@@ -92,40 +92,28 @@
         "image": "https://www.teleracaoportoalegre.com.br/wp-content/uploads/2018/03/primogato-blend-318x600.png"
       },
       {
-        "name": "Pizza Vegan",
+        "name": "Ração Tucano",
         "price": 14,
         "categorie": 3,
-        "image": "http://tutofox.com/foodapp//food/pizza/pizza-1.png"
+        "image": "https://www.nutral.com.br/wp-content/uploads/2020/09/racao-tucano-turaco-768x1027.png"
       },
       {
-        "name": "Pizza Bufalisimo",
+        "name": "Sabiás & Birds",
         "price": 14,
         "categorie": 3,
-        "image": "http://tutofox.com/foodapp//food/pizza/pizza-2.png"
+        "image": "https://i1265.photobucket.com/albums/jj519/CLAUDIOAGRORURAL/SABIA_zpsc0ec41ff.png"
       },
       {
-        "name": "Pizza Haiwaiana",
+        "name": "Ração Para Pássaros",
         "price": 13,
         "categorie": 3,
-        "image": "http://tutofox.com/foodapp//food/pizza/pizza-3.png"
+        "image": "https://pachaalimentos.com/wp-content/uploads/2017/01/RACAO-PARA-PASSAROS-500GSITE.png"
       },
       {
-        "name": "Pizza Peperoni",
+        "name": "Ração Triturada",
         "price": 16,
         "categorie": 3,
-        "image": "http://tutofox.com/foodapp//food/pizza/pizza-4.png"
-      },
-      {
-        "name": "Pizza Vegan 2",
-        "price": 12,
-        "categorie": 3,
-        "image": "http://tutofox.com/foodapp//food/pizza/pizza-5.png"
-      },
-      {
-        "name": "Pizza Napolitana",
-        "price": 18,
-        "categorie": 3,
-        "image": "http://tutofox.com/foodapp//food/pizza/pizza-6.png"
+        "image": "https://pachaalimentos.com/wp-content/uploads/2017/01/RACAO-PARA-PASSAROS-TRITURADA-500GSITE.png"
       },
         {
           "name": "Casinha Pet",
