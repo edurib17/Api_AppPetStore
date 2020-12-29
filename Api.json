@@ -92,12 +92,6 @@
         "image": "http://tutofox.com/foodapp//food/burger/burger-4.png"
       },
       {
-        "name": "Burger Farmer",
-        "price": 16,
-        "categorie": 1,
-        "image": "http://tutofox.com/foodapp//food/burger/burger-5.png"
-      },
-      {
         "name": "Mini Burger",
         "price": 16,
         "categorie": 2,
