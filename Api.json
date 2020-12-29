@@ -126,30 +126,6 @@
         "price": 18,
         "categorie": 3,
         "image": "http://tutofox.com/foodapp//food/pizza/pizza-6.png"
-      },
-      {
-        "name": "Coca cola",
-        "price": 2,
-        "categorie": 4,
-        "image": "http://tutofox.com/foodapp//food/drink/cocacola.png"
-      },
-      {
-        "name": "Pepsi",
-        "price": 2,
-        "categorie": 4,
-        "image": "http://tutofox.com/foodapp//food/drink/pepsi.png"
-      },
-      {
-        "name": "Quatro",
-        "price": 2,
-        "categorie": 4,
-        "image": "http://tutofox.com/foodapp//food/drink/quatro.png"
-      },
-      {
-        "name": "Sprite",
-        "price": 2,
-        "categorie": 4,
-        "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
       }
     ]
   }
