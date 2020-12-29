@@ -128,22 +128,22 @@
         "image": "http://tutofox.com/foodapp//food/pizza/pizza-6.png"
       },
         {
-          "name": "Coca cola",
+          "name": "Casinha Pet",
           "price": 2,
           "categorie": 4,
-          "image": "http://tutofox.com/foodapp//food/drink/cocacola.png"
+          "image": "https://irimar.com.br/wp-content/uploads/2019/03/Fundo_Transparente_Cama_Pet_Castanho_com_Tachas_em_Tecido_Suede_Cinza.png"
         },
         {
-          "name": "Pepsi",
+          "name": "Caminha Pet",
           "price": 2,
           "categorie": 4,
-          "image": "http://tutofox.com/foodapp//food/drink/pepsi.png"
+          "image": "https://www.pngkey.com/png/full/308-3085003_cooling-gel-pet-bed-pet-therapeutics-theracool-cooling.png"
         },
         {
-          "name": "Quatro",
+          "name": "Casinha Pet Adulto",
           "price": 2,
           "categorie": 4,
-          "image": "http://tutofox.com/foodapp//food/drink/quatro.png"
+          "image": "https://aguiapiscinas.ind.br/app/uploads/2018/01/casinhapet-dest.png"
         },
         {
           "name": "Sprite",
